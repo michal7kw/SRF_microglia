@@ -16,3 +16,5 @@ Sharon_RNA_small
 *.zipx
 *.log
 *.csv
+*.h5ad
+*.png
