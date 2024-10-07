@@ -18,3 +18,4 @@ Sharon_RNA_small
 *.csv
 *.h5ad
 *.png
+.aider*
