@@ -19,3 +19,5 @@ Sharon_RNA_small
 *.h5ad
 *.png
 .aider*
+*.rds
+GSE171266/output/combined_data.rds
