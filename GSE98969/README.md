@@ -47,3 +47,10 @@ The study identifies a novel microglia type associated with neurodegenerative di
 Raw data is deposited in GEO under accession GSE98969, with **97 samples** included in the dataset.
 
 This comprehensive dataset allows for the identification and characterization of immune cell populations, particularly microglia subtypes, across different neurodegenerative conditions, disease progression stages, and genetic backgrounds.
+
+## Comments
+
+From our first analysis the aged microglia display up-regulation of disease-specific genes.
+Compare the index of similarity between the bulk RNA-seq of disease-associated microglia (DAM).
+
+![](note.png)
