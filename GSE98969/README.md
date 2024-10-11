@@ -4,7 +4,7 @@ Single cell RNA-seq identifies a unique microglia type associated with Alzheimer
 
 [GEO Accession viewer (nih.gov)](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE98969)
 
-![SRF microglia image](abstract.jpg)
+![SRF microglia image](./images/abstract.jpg)
 
 In Brief A new type of microglia associated with restricting neurodegeneration may have important implications for treatment of Alzheimer’s and related diseases.
 
@@ -53,4 +53,4 @@ This comprehensive dataset allows for the identification and characterization of
 From our first analysis the aged microglia display up-regulation of disease-specific genes.
 Compare the index of similarity between the bulk RNA-seq of disease-associated microglia (DAM).
 
-![](note.png)
+![](./images/note.png)
