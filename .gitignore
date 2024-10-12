@@ -4,6 +4,7 @@ Archive
 jobs
 Sharon_RNA
 Sharon_RNA_small
+__pycache__
 
 *.zip
 *.rar
